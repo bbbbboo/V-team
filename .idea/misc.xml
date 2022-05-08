@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.145" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.145" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/ic_baseline_search_24.xml" value="0.145" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1955" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2105" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/png_05.xml" value="0.145" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/png_06.xml" value="0.145" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable-v24/png_07.xml" value="0.145" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2105" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/activity_main.xml" value="0.3515625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/activity_menu1.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/activity_menu2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/menu1.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub1_menu1.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub1_menu2.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub1_menu3.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub1_menu4.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub1_menu5.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub1_menu6.xml" value="0.2625" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub2_menu1.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub2_menu2.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub2_menu3.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub2_menu4.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub2_menu5.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/layout/sub2_menu6.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.22" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0429test/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1955" />
+        <entry key="..\:/Users/bh479/AndroidStudioProjects/0502/V_Team-main/0501test/app/src/main/res/layout/activity_main.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/activity_main.xml" value="0.22531645569620254" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/activity_menu1.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/activity_menu2.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/sub1_menu1.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/sub1_menu2.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/sub1_menu6.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0429test-master/app/src/main/res/layout/sub2_menu5.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/0501test/app/src/main/res/layout/activity_menu2.xml" value="0.1" />
+        <entry key="..\:/dev/android/FindMe/0501test/app/src/main/res/layout/activity_menu1.xml" value="0.36614583333333334" />
+        <entry key="..\:/dev/android/FindMe/0501test/app/src/main/res/layout/activity_menu2.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

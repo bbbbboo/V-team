@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F41100"
+    android:orientation="vertical"
+    tools:context=".Menu1Activity">
+
+    <androidx.gridlayout.widget.GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:orientation="horizontal"
+        app:columnCount="3"
+        app:rowCount="5"
+        android:paddingTop="20dp"
+
+        tools:ignore="MissingClass">
+
+        <Button
+            android:id="@+id/View1"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:text="병 메뉴"
+            app:layout_columnWeight="1"
+            android:layout_margin="5dp"
+            />
+
+        <Button
+            android:id="@+id/View2"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:text="병 메뉴"
+            app:layout_columnWeight="1"
+            android:layout_margin="5dp"
+
+            />
+
+        <Button
+            android:id="@+id/View3"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:text="병 메뉴"
+            app:layout_columnWeight="1"
+            android:layout_margin="5dp"/>
+
+        <Button
+            android:id="@+id/View4"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:text="병 메뉴"
+            app:layout_columnWeight="1"
+            android:layout_margin="5dp"
+            />
+
+        <Button
+            android:id="@+id/View5"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:text="병 메뉴"
+            app:layout_columnWeight="1"
+            android:layout_margin="5dp"
+
+            />
+
+        <Button
+            android:id="@+id/View6"
+            android:layout_width="0dp"
+            android:layout_height="130dp"
+            android:text="병 메뉴"
+            app:layout_columnWeight="1"
+            android:layout_margin="5dp"/>
+
+
+
+    </androidx.gridlayout.widget.GridLayout>
+
+</LinearLayout>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/_4"
+    tools:context=".MainActivity">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical"
+        android:background="#007733">
+
+
+        <ImageView
+            android:id="@+id/Top_home"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:src="@drawable/ic_baseline_home_24"/>
+
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="병해충의 모든 것"
+            android:textColor="@android:color/white"/>
+
+        <ImageView
+            android:id="@+id/Top_search"
+            android:layout_width="50dp"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:src="@drawable/ic_baseline_search_24"/>
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btn_main1"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="35dp"
+        android:backgroundTint="#88BA37"
+        android:drawableLeft="@drawable/png_05"
+        android:text="작물별 도감 정보\n\n-식량 -과수\n-채소 -화훼\n-특용 -잡초"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/btn_main2"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="35dp"
+        android:backgroundTint="#599123"
+        android:drawableLeft="@drawable/png_06"
+        android:text="병해충 도감 정보\n\n -병 -병원체 \n -곤충 -해충 \n-천적곤충 -잡초"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+
+        android:id="@+id/btn_main3"
+        android:layout_width="350dp"
+        android:layout_height="200dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="35dp"
+        android:backgroundTint="#417312"
+        android:drawableLeft="@drawable/png_07"
+        android:text="병해충 예측 서비스 \n\n -예측 지도 \n-예측 조사 비교 \n -예찰 검색\n -시도,시군구 별"
+        android:textColor="@color/black"
+        android:textSize="19sp"
+        android:textStyle="bold" />
+
+
+
+
+</LinearLayout>

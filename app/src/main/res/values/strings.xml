@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">0429test</string>
+
+    <string name="title">병해충의 모든 것</string>
+
+    <string name="sub1_1">식량</string>
+    <string name="sub1_2">과수</string>
+    <string name="sub1_3">채소</string>
+    <string name="sub1_4">화훼</string>
+    <string name="sub1_5">특용</string>
+    <string name="sub1_6">잡초</string>
+
+    <string name="sub2_1">병</string>
+    <string name="sub2_2">병원체</string>
+    <string name="sub2_3">곤충</string>
+    <string name="sub2_4">해충</string>
+    <string name="sub2_5">천적곤충</string>
+    <string name="sub2_6">잡초</string>
+
+    <string name="sub3_1">예측지도</string>
+    <string name="sub3_2">예측 조사 비교</string>
+    <string name="sub3_3">예찰 검색</string>
+    <string name="sub3_4">시도,시군구 별</string>
+
+
+</resources>
