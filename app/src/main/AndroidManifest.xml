@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.a0429test">
 
     <application
@@ -20,6 +21,7 @@
         </activity>
         <activity android:name=".Menu1Activity"/>
         <activity android:name=".Menu2Activity"/>
+        <activity android:name=".Menu3Activity"/>
     </application>
 
 </manifest>
